@@ -120,6 +120,7 @@ install(
 
 install(
     FILES
+        cmake/Findacl.cmake
         cmake/IceoryxConfigureOptionMacro.cmake
         cmake/IceoryxPackageHelper.cmake
         cmake/IceoryxPlatform.cmake
